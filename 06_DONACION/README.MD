@@ -1,5 +1,6 @@
-Gracias por apoyar el desarrollo tecnológico en español
-e incentivarme para seguir elaborando cursos gratuitos 
+:pe: APOYA EL DESARROLLO TECNOLÓGICO EN ESPAÑOLA :es:
+
+Incentivame para seguir elaborando cursos gratuitos 
 de alta calidad.
 
 Por favor, descargue el archivo DONACION.pdf y habralo
