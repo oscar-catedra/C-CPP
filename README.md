@@ -5,4 +5,4 @@
 3. 📁 [03_C](03_C/)
 4. 📁 [04_BASH](04_BASH/)
 5. 📁 [05_BATCH](05_BATCH/)
-6. ❤️ [06_DONACION](06_DONACION/)
+6. ❤️ [06_DONACIÓN](06_DONACION/)
