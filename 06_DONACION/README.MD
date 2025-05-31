@@ -1,4 +1,4 @@
-🇵🇪 APOYA EL DESARROLLO TECNOLÓGICO EN ESPAÑOLA :es:
+🇵🇪  APOYA EL DESARROLLO TECNOLÓGICO EN ESPAÑOL  :es:
 
 Incentivame para seguir elaborando cursos gratuitos 
 de alta calidad.
