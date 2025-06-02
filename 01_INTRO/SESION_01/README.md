@@ -1,4 +1,4 @@
-# 📘 SESIÓN 01: Introducción e Instalación de C / C++
+# 📚 SESIÓN 01: Introducción e Instalación de C / C++
 
 ## 📄 Parte 1: [Introducción al Lenguaje C / C++ desde la Consola (PDF)](https://github.com/oscar-catedra/C-CPP/blob/main/01_INTRO/SESION_01/Sesion-1-INTRO-A-C-CPP-CONSOLA-OscarNunezMori.pdf)
 
