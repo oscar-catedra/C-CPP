@@ -14,7 +14,7 @@
 
 ---
 
-### 1️⃣ [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube)] [EJEMPLOS DEL LENGUAJE **BATCH**]()
+### 1️⃣ ▶️ [EJEMPLOS DEL LENGUAJE **BATCH**]()
 **OpenAI.** (2025, mayo 30). *Explicación de scripts Batch y demostración de colores en consola de Windows* [ChatGPT]. ChatGPT.  
 🔗 https://chatgpt.com/share/683a6c45-8928-8009-ae2c-d269ba2a6fdd
 
