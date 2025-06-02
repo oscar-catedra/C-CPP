@@ -6,7 +6,7 @@
 
 ## 🕰️ HISTORIA
 
-1. 📙 [Historia del Lenguaje C](#) <!-- Reemplaza con el enlace real -->
+1. 📙 [Historia del Lenguaje C](#) 
 2. 📙 [Historia del Lenguaje C++](#)
 
 ---
@@ -14,25 +14,25 @@
 
 ---
 
-### 1️⃣ [![YouTube] EJEMPLOS DEL LENGUAJE **BATCH** 
+### 1️⃣ [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube)] [EJEMPLOS DEL LENGUAJE **BATCH**]()
 **OpenAI.** (2025, mayo 30). *Explicación de scripts Batch y demostración de colores en consola de Windows* [ChatGPT]. ChatGPT.  
 🔗 https://chatgpt.com/share/683a6c45-8928-8009-ae2c-d269ba2a6fdd
 
 ---
 
-### 2️⃣ [![YouTube] EJEMPLOS DEL LENGUAJE **BASH**
+### 2️⃣ ▶️ EJEMPLOS DEL LENGUAJE **BASH**
 **OpenAI.** (2025, mayo 30). *Explicación de scripts Bash y comandos grep, sed, awk* [Asistente conversacional, ChatGPT]. ChatGPT.  
 🔗 https://chatgpt.com/share/683bb39c-3b10-8009-9ae0-4c03c54b1986
 
 ---
 
-### 3️⃣ [![YouTube] EJEMPLOS DEL LENGUAJE **C**
+### 3️⃣ ▶️ EJEMPLOS DEL LENGUAJE **C**
 **OpenAI.** (2025, mayo 31). *El controlador – Juego en C con Raylib (análisis y código)* [Conversación con ChatGPT]. ChatGPT.  
 🔗 https://chatgpt.com/share/683bcbce-e0d0-8009-a2fe-cf7dea149a79
 
 ---
 
-### 4️⃣ [![YouTube] EJEMPLOS DEL LENGUAJE **C++**
+### 4️⃣ ▶️ EJEMPLOS DEL LENGUAJE **C++**
 
 **C++:**
 
