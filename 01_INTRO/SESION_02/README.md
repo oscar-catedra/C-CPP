@@ -48,5 +48,8 @@
 **C++ con librería Raylib:**
 
 **OpenAI.** (2025, junio 1). *10 programas en C++ con Raylib explicados paso a paso* [ChatGPT]. ChatGPT.  
-🔗 https://chatgpt.com/share/683cf89e-6db8-8009-98a8-fc25a3ec96f6
+🔗 https://chatgpt.com/share/683c8f9e-6db8-8009-9b8a-fc25a3ec9cf6
+
+
+
 
