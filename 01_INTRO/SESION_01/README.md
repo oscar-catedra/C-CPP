@@ -6,10 +6,13 @@
 
 ## 🎥 VIDEOS INSTRUCCIONALES
 
-1. 🔗 [¿CÓMO INGRESAR AL SISTEMA GNOMIO?](https://www.youtube.com/watch?v=wjGoNOy19z4)
-2. 🔗 [INTRODUCCIÓN AL LENGUAJE C / C++ DESDE LA CONSOLA](https://www.youtube.com/watch?v=dwjOL-GgGlU)
-3. 🔗 [INSTALACIÓN RÁPIDA DE MSYS2 CON EL LENGUAJE C Y C++](https://www.youtube.com/watch?v=VhLeVBxbo9A)
-4. 🔗 [INSTALACIÓN CONVENCIONAL DE MSYS2 CON LENGUAJE C Y C++](https://www.youtube.com/watch?v=Qqal3spRF4U)
+1. ▶️ [¿CÓMO INGRESAR AL SISTEMA GNOMIO?](https://www.youtube.com/watch?v=wjGoNOy19z4)
+   
+2. ▶️ [INTRODUCCIÓN AL LENGUAJE C / C++ DESDE LA CONSOLA](https://www.youtube.com/watch?v=dwjOL-GgGlU)
+  
+3. ▶️ [INSTALACIÓN RÁPIDA DE MSYS2 CON EL LENGUAJE C Y C++](https://www.youtube.com/watch?v=VhLeVBxbo9A)
+ 
+4. ▶️ [INSTALACIÓN CONVENCIONAL DE MSYS2 CON LENGUAJE C Y C++](https://www.youtube.com/watch?v=Qqal3spRF4U)
 
 ---
 
