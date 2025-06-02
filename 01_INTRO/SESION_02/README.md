@@ -37,7 +37,8 @@
 **C++:**
 
 **OpenAI.** (2025, junio 1). *Colección de programas y explicaciones en C y C++ para consola CMD en Windows, incluyendo juegos, utilidades del sistema y manipulación de archivos* [ChatGPT]. ChatGPT.  
-🔗 https://chatgpt.com/share/683c8d2a-a84c-8009-b1c2-74ab787ca7eb
+🔗 https://chatgpt.com/share/683c8d2a-a84c-8009-b1c2-7a4b787ca7eb
+
 
 **C++ con librería WxWidgets:**
 
