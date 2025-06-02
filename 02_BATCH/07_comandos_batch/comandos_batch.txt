@@ -1,0 +1,43 @@
+🪟 Comandos principales de BATCH (Windows CMD)
+---------------------------------------------
+
+🔹 Gestión de archivos y directorios
+
+Comando	    Descripción
+dir	        Lista archivos y carpetas en el directorio
+cd, chdir	Cambia el directorio actual
+mkdir, md	Crea un nuevo directorio
+rmdir, rd	Elimina un directorio vacío
+del, erase	Elimina archivos
+copy	    Copia archivos de un lugar a otro
+xcopy	    Copia archivos y directorios (más potente)
+move	    Mueve o renombra archivos y carpetas
+ren	        Renombra archivos
+type	    Muestra el contenido de un archivo
+
+🔹 Variables y entrada/salida
+
+Comando	Descripción
+set	Define variables de entorno
+set /p	Captura entrada del usuario
+echo	Muestra mensajes en pantalla
+pause	Detiene la ejecución hasta presionar una tecla
+call	Llama a otro script desde el actual
+
+🔹 Control de flujo
+
+Comando	    Descripción
+if	        Estructura condicional
+if exist	Verifica si existe un archivo o carpeta
+goto	    Salta a una etiqueta
+:etiqueta	Define un punto de salto (goto)
+for	        Bucle para recorrer archivos, números, etc.
+
+🔹 Otros útiles
+
+Comando	Descripción
+cls	    Limpia la pantalla
+exit	Sale del script o consola
+choice	Crea menú interactivo
+timeout	Espera un número de segundos
+findstr	Busca texto dentro de archivos
