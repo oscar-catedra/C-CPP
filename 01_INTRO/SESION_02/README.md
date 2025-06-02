@@ -1,6 +1,6 @@
 # 📚 SESIÓN 02: Ejemplos de Aplicación de C / C++
 
-📄 [Parte 2: Introducción al Lenguaje C / C++ desde la Consola (PDF)](https://tulink.pdf) <!-- Reemplaza con el enlace real -->
+📄 [Parte 2: Introducción al Lenguaje C / C++ desde la Consola (PDF)](https://github.com/oscar-catedra/C-CPP/blob/main/01_INTRO/SESION_02/Sesion-2-INTRO-A-C-CPP-CONSOLA-OscarNunezMori.pdf)
 
 ---
 
