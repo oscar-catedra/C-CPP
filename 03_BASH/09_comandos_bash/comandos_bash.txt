@@ -1,0 +1,47 @@
+
+🐧 Comandos principales de BASH (Linux)
+---------------------------------------
+
+🔹 Gestión de archivos y directorios
+
+Comando	      Descripción
+ls	          Lista archivos
+cd	          Cambia de directorio
+mkdir	      Crea directorios
+rmdir	      Elimina directorios vacíos
+rm	          Elimina archivos o carpetas (-r para recursivo)
+cp	          Copia archivos o directorios
+mv	          Mueve o renombra archivos
+cat	          Muestra el contenido de archivos
+more, less	  Visualización paginada de archivos
+find, locate  Búsqueda de archivos
+
+🔹 Variables y entrada/salida
+
+Comando	Descripción
+read	Captura entrada del usuario
+echo	Muestra texto
+> >>	Redirección de salida (sobrescribir/agregar)
+<	    Entrada desde archivo
+`	    simbolo (`)
+
+🔹 Control de flujo
+
+Comando	           Descripción
+if, then, else	   Condicional
+case	           Estructura de selección múltiple
+for, while, until  Bucles de control
+break, continue	   Control de bucles
+
+🔹 Utilidades comunes
+
+Comando	    Descripción
+grep	    Búsqueda de texto
+wc	        Cuenta líneas, palabras, caracteres
+cut	        Extrae columnas de texto
+awk, sed	Procesamiento de texto
+basename,   dirname	Extraer nombre de archivo/directorio
+date, time	Muestra fecha y hora
+sleep	    Espera en segundos
+clear	    Limpia la terminal
+exit	    Sale del script
